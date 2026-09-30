@@ -1,6 +1,6 @@
 # Autonomous car parking with reinforcement learning
 
-Undergraduate project (Ankara University, 2021) by Tarık Tuna Taşaltı and Alparslan İdris Arslan. A 2D car learns to park in a randomly chosen slot between other cars, trained with PPO through Unity ML-Agents. We developed the project on one machine, so the commit history carries one name.
+Artificial intelligence course assignment (Ankara University, 2021) by Tarık Tuna Taşaltı, Kadir Erkan and Alparslan İdris Arslan. A 2D car learns to park in a randomly chosen slot between other cars, trained with PPO through Unity ML-Agents. We developed the project on one machine, so the commit history carries one name.
 
 ## How it works
 
